@@ -1,2 +1,1 @@
-apt install aapt -y
-bash script
+apt install aapt -y && bash script
